@@ -1,0 +1,14 @@
+### GET USER
+
+GET https://jsonplaceholder.typicode.com/users/5
+
+
+### GET USERS
+
+GET https://jsonplaceholder.typicode.com/users
+
+
+GET https://localhost:8081/courses
+
+GET https://localhost:8082/customers
+
